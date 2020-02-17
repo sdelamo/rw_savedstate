@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SavedSate</string>
+    <string name="saved_in_vm">Saved in ViewModel: %s</string>
+    <string name="initial_name">No one</string>
+    <string name="name">Name:</string>
+    <string name="save">Save</string>
+    <string name="saved_in_viewmodel">Saved in ViewModel:</string>
+
+</resources>
